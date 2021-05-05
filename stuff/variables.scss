@@ -21,13 +21,13 @@
 .theme-dark {
 
     // Text
-    --text-normal: #f8e1e5;
-    --header-primary: #f8e1e5;
-    --interactive-normal: #fab1bd;
-    --channels-default: #f8e1e5;
+    --text-normal: #e1f6f8;
+    --header-primary: #768ee3;
+    --interactive-normal: #789dcf;
+    --channels-default: #8da7c9;
 
-    --text-muted: #e2c1c7;
-    --interactive-muted: #ad8c91;
+    --text-muted: #c0eddd;
+    --interactive-muted: #bce0de;
 
     --header-secondary: #e2c1c7;
     --interactive-hover: #e2c1c7;
@@ -82,19 +82,19 @@
     --text-muted: #a86373;
     --interactive-muted: #cf92a0;
 
-    --header-secondary: #cf92a0;
-    --interactive-hover: #be7d8c;
+    --header-secondary: #bed9e6;
+    --interactive-hover: #b6d0d9;
     --interactive-active: #b36f7f;
 
     // Background color
     --background-primary: #FFFFFF;
-    --background-secondary: #ffeeee;
-    --background-secondary-alt: #fdc7c7;
-    --background-tertiary: #ffbbbb;
-    --background-floating: #ffbbbb;
-    --background-accent: #c5536c;
+    --background-secondary: #eefeff;
+    --background-secondary-alt: #c7f2fd;
+    --background-tertiary: #bbf5ff;
+    --background-floating: #bbf5ff;
+    --background-accent: #5487c7;
     --channeltextarea-background: var(--background-secondary);
-    --background-modifier-hover: rgba(56, 31, 31, 0.062);
+    --background-modifier-hover: rgba(31, 41, 56, 0.0);
     --background-modifier-active: rgba(19, 12, 12, 0.123);
     --background-modifier-selected: rgba(31, 21, 21, 0.11);
 
