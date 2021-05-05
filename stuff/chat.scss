@@ -1,7 +1,7 @@
 :root {
 
 // Embed
-.embedFull-2tM8-- { 
+.embedFull-2tM8-- {
     border: none; margin-left: 10px;
     border-radius: 5px var(--border-radius) var(--border-radius) 5px;
 
@@ -46,7 +46,7 @@
 .categoryHeader-O1zU94, .selected-1Tbx07 { background-color: var(--background-tertiary);}
 
 // @everyone popout
-.everyonePopout-nEbJY3 { background-color: var(--background-primary); box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px rgba(56, 31, 31, 0.11);}
+.everyonePopout-nEbJY3 { background-color: var(--background-primary); box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px rgba(138, 174, 184, 0.11);}
 
 // Emoji picker
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV { background-color: var(--background-modifier-selected);}
@@ -55,7 +55,7 @@
 // Reactions modal
 .scroller-1-nKid { background: var(--background-tertiary);}
 .container-1If-HZ, .reactors-Blmlhw { background: var(--background-secondary);}
-.reactionSelected-1pqISm { background-color: #6e85d321;}
+.reactionSelected-1pqISm { background-color: #828cd1;}
 
 // Deleting message modal
 .message-2qRu38 { background: var(--background-primary); box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px rgba(56, 31, 31, 0.11);}
@@ -67,15 +67,15 @@
 .popoutContainer-1MXdqN { border-radius: var(--border-radius);}
 
 // New message bar
-.newMessagesBar-265mhP {  
+.newMessagesBar-265mhP {
     top: 5px; border-radius: var(--border-radius);
     background-color: var(--background-accent);
     padding-top: 0;
 }
 
 // Jump to present bar
-.jumpToPresentBar-G1R9s6 { 
-    bottom: 12px; padding-bottom: 0; 
+.jumpToPresentBar-G1R9s6 {
+    bottom: 12px; padding-bottom: 0;
     border-radius: var(--border-radius);
 }
 
